@@ -1,0 +1,70 @@
+@import url("Ecom.css");
+.img_girl{
+    margin-top: 150px;
+}
+
+.form{
+    width: 250px;
+    height: 580px;
+    position: absolute;
+    top: -20px;
+    left: 870px;
+    border-radius: 10px;
+    padding: 25px;
+
+}
+
+.form h2{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #000000;
+    font-size: 22px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+
+}
+
+.form input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid #6ff7fc;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    outline: none;
+
+}
+
+.btn{
+    width: 240px;
+    height: 40px;
+    background: #3bb4f5;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: rgb(60, 217, 217);
+    transition: 0.4s ease;
+}
+
+.btn:hover{
+    background: rgb(44, 152, 214);
+    color: #ff7200;
+}
+
+.btn a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+
+}

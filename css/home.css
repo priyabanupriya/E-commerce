@@ -1,0 +1,43 @@
+@import url("Ecom.css");
+/* a:visited {
+    text-decoration: underline solid #79D6EC 5px;
+} */
+
+.cd {
+    margin-top: 10px;
+    margin-left: 8px;
+    font-size: 18px;
+}
+
+.btn-primary {
+    background-color: coral !important;
+    border: none;
+}
+
+.head {
+    width: 350px;
+    margin-top: 50px;
+    margin-left: 180px;
+}
+
+.card{
+    margin-top: 100px;
+    margin-left: 50px;
+ }
+ 
+.card-text{
+    font-family: Arial;
+    font-size: large;
+}
+
+.card-img-top{
+    width: 160px;
+    height: 161px;
+}
+
+.shop{
+    width: 500px;
+    height: 400px;
+    margin-bottom: 40px;
+    margin-left: 70px;
+}
